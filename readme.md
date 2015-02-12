@@ -15,6 +15,9 @@ University of Essex. Institute for Social and Economic Research, _British Househ
 **readme.md**
 > This readme markdown file
 
+**luptak_dissertation.pdf**
+> Final version of the dissertation, as submitted for assessment
+
 **clean_analysis.do**
 > Stata .do file for cleaning the original BHPS dataset and running all analyses from the dissertation
 
