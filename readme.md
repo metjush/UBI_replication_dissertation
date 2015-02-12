@@ -12,7 +12,7 @@ Basic income and self-employment (Matus Luptak)
 University of Essex. Institute for Social and Economic Research, _British Household Panel Survey: Waves 1-18, 1991-2009_ [computer file]. _7th Edition_. Colchester, Essex: UK Data Archive [distributor], July 2010. SN: 5151, http://dx.doi.org/10.5255/UKDA-SN-5151-1
 
 ### Included files
-**readme.md
+**readme.md**
 > This readme markdown file
 
 **clean_analysis.do**
@@ -23,4 +23,5 @@ University of Essex. Institute for Social and Economic Research, _British Househ
 
 ### Dissertation abstract
 > This dissertation empirically investigates the hypothesis that a universal basic income would positively influence entrepreneurial activity. After reviewing the existing literature and noting the absence of an ideal dataset, it utilizes the _British Household Panel Survey_ data to estimate two models that are used as proxies for basic income; receipt of windfall income and the transition to retirement. The econometric analysis looks at the dynamic relationship between the proxy experience and a transition into (new) self-employment. Results from the windfall model show only redundancy payment is a significant predictor of the transition. Retirement is shown to be a consistent positive influence on entrepreneurial entry. Both models are imperfect in approximating true basic income, and question remain about the type of self-employment that people would transition into, but the empirical results show basic income could be expected to increase self-employment rates.
+
 _**The University of Edinburgh, 2015**_
